@@ -1,0 +1,19 @@
+  in.dat
+00002          IB
+00041          IE
+00001          IDTYP: 1=RECT, 2=2D, 3=AXISYM, 4=GRADED RECT
++0.00250E-00   DI (m): length of control volumes.
++7.80000E+03   RHO (kg/m^3): Material density.
++6.00000E+01   COND (W/m K): Thermal conductivity
++4.30000E+02   CP (J/kg K): specific heat
++1.00000E-03   VISC (N s/m): viscosity
++1.00000E+00   EMIS: emmisivity of surfaces (set to 0 for no radiation)
++1.00000E+01   T0 : Initialized temperature
+1.000000E+10   DTIME (s) : Time step
+00001          KNTMM : Maximum number of time steps
+00100          KNTNL : Maximum number of non-linear iterations
++1.00000E-05   CRIT : Convergence criteria for non-linearities
+00001          LVLGEO =1 OUTPUT GEOMETRY, = 0 NO GEOMETRY OUTPUT
+00000          LVLCOF=0 NONE,1 FINAL,2 BEFORE ELIM.,3 COEFF., 4 ALL
+1.200000E+01   HCONV[W/M**2-K]. Convective heat transfer coefficient.(1D)
+2.500000E+01   TINF. Ambient temperature.(1D)
