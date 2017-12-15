@@ -1,0 +1,156 @@
+{
+  "Root":{
+    "Folders":[],
+    "Name":"+Untitled (target.exe)",
+    "Files":[{
+        "filename":".\\adcont.f",
+        "enabled":"1"
+      },{
+        "filename":".\\assign.f",
+        "enabled":"1"
+      },{
+        "filename":".\\bndcp.f",
+        "enabled":"1"
+      },{
+        "filename":".\\bndct.f",
+        "enabled":"1"
+      },{
+        "filename":".\\bndcu.f",
+        "enabled":"1"
+      },{
+        "filename":".\\coeff.f",
+        "enabled":"1"
+      },{
+        "filename":".\\dhat.f",
+        "enabled":"1"
+      },{
+        "filename":".\\difphi.f",
+        "enabled":"1"
+      },{
+        "filename":".\\globm.f",
+        "enabled":"1"
+      },{
+        "filename":".\\gradp.f",
+        "enabled":"1"
+      },{
+        "filename":".\\grdgeo.f",
+        "enabled":"1"
+      },{
+        "filename":".\\hoconv.f",
+        "enabled":"1"
+      },{
+        "filename":".\\in.dat",
+        "enabled":"1"
+      },{
+        "filename":".\\inital.f",
+        "enabled":"1"
+      },{
+        "filename":".\\input.f",
+        "enabled":"1"
+      },{
+        "filename":".\\lud.f",
+        "enabled":"1"
+      },{
+        "filename":".\\main.f",
+        "enabled":"1"
+      },{
+        "filename":".\\makgrd.f",
+        "enabled":"1"
+      },{
+        "filename":".\\masflx.f",
+        "enabled":"1"
+      },{
+        "filename":".\\null.f",
+        "enabled":"1"
+      },{
+        "filename":".\\out.dat",
+        "enabled":"1"
+      },{
+        "filename":".\\out1d.f",
+        "enabled":"1"
+      },{
+        "filename":".\\ovrwt.f",
+        "enabled":"1"
+      },{
+        "filename":".\\resid.f",
+        "enabled":"1"
+      },{
+        "filename":".\\rsi.bin",
+        "enabled":"1"
+      },{
+        "filename":".\\rso.bin",
+        "enabled":"1"
+      },{
+        "filename":".\\solup.f",
+        "enabled":"1"
+      },{
+        "filename":".\\srct.f",
+        "enabled":"1"
+      },{
+        "filename":".\\srcu.f",
+        "enabled":"1"
+      },{
+        "filename":".\\srcup.f",
+        "enabled":"1"
+      },{
+        "filename":".\\tdma.f",
+        "enabled":"1"
+      },{
+        "filename":".\\uhat.f",
+        "enabled":"1"
+      },{
+        "filename":".\\weight.f",
+        "enabled":"1"
+      }]
+  },
+  "Name":"Untitled (target.exe)",
+  "Options":{
+    "Compiler Options":{
+      "Fortran Flags":"",
+      "Link Flags":"",
+      "C Flags":""
+    },
+    "Architecture":1,
+    "Type":0,
+    "Revision":2,
+    "Windows GUI":0,
+    "File Options":{
+      "Library Directories":["Default Add-On Directory"],
+      "Build Directory":"build",
+      "Module Directory":"modules",
+      "Include Directories":["Default Add-On Include Directory"]
+    },
+    "Target":"target.exe",
+    "Fortran Options":{
+      "Use C Preprocessor":"false",
+      "Runtime Diagnostics":"false",
+      "Cray Pointers":"false",
+      "Enable OpenMP":"false",
+      "Default Double for Real":"false"
+    },
+    "Code Generation Options":{
+      "CPU Specific":"false",
+      "Processor":"generic",
+      "Aggressive Loops":"false",
+      "Debugging":"true",
+      "Optimization Mode":0,
+      "Profiling":"false"
+    },
+    "Build Dependencies":1,
+    "Launch Options":{
+      "Working Directory":"",
+      "Keep Console":"true",
+      "External Console":"false",
+      "Command Line Arguments":"",
+      "Build Before Launch":"true"
+    },
+    "Build Options":{
+      "Makefile":"Makefile",
+      "Auto Makefile":"true"
+    },
+    "Linker Options":{
+      "Static Linking Mode":7,
+      "Link LAPACK":0
+    }
+  }
+}
